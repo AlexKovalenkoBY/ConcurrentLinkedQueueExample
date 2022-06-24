@@ -1,3 +1,4 @@
+//from https://java-online.ru/concurrent-queue-noblock.xhtml
 package com.wbozon.wbozon;
 
 import java.util.ArrayList;
